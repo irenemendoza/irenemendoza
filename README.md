@@ -1,3 +1,25 @@
-# Perfil de Irene Mendoza González
+# Hola, soy Irene. 👋 
+Tras haber navegado por otros mundos he terminado descubriendo que me encanta el código.
 
-Tras haber navegado por otros mundos he terminado descubriendo que me apasiona el código.
+## 🚀 Desarrollador Web | Python & Django
+Apasionada por crear aplicaciones web robustas y escalables. 
+Actualmente enfocada en backend con Django y empezando a contribuir a 
+proyectos open source.
+
+### 🛠️ Stack Técnico
+- **Backend:** Python, Django
+- **Frontend:** HTML, CSS, JavaScript
+- **Herramientas:** Git, GitHub, PostgreSQL
+- **Aprendiendo:** 
+
+### 💼 Proyecto Destacado
+**[intranet-hotel]** - Intranet para un hotel realizada en django para mejorar comunicación entre departamentos.
+- 🔗 [Ver proyecto](link al repo)
+
+### 🌱 Actualmente
+- Buscando oportunidades como Junior Developer
+- Mejorando mis skills en full-stack
+
+### 📫 Contacto
+- LinkedIn: Irene Mendoza González
+- Email: mendozagonzalez.irene@gmail.com

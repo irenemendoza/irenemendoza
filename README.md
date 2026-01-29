@@ -10,7 +10,10 @@ proyectos open source.
 - **Backend:** Python, Django
 - **Frontend:** HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, PostgreSQL
-- **Aprendiendo:** 
+- **Aprendiendo:**
+
+## 🌟 Open Source Contributions
+- [pure-reactions](https://github.com/animyrch/pure-reactions) - Fixed logout toast message bug
 
 ### 💼 Proyecto Destacado
 **[intranet-hotel]** - Intranet para un hotel realizada en django para mejorar comunicación entre departamentos.

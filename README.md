@@ -17,7 +17,7 @@ proyectos open source.
 
 ### 💼 Proyecto Destacado
 **[intranet-hotel]** - Intranet para un hotel realizada en django para mejorar comunicación entre departamentos.
-- 🔗 [Ver proyecto](link al repo)
+- 🔗 [Ver proyecto](https://github.com/irenemendoza/hotel-intranet)
 
 ### 🌱 Actualmente
 - Buscando oportunidades como Junior Developer

@@ -1,4 +1,5 @@
-<img width="2619" height="873" alt="bannergithub-BLACK" src="https://github.com/user-attachments/assets/d945acd4-6ee3-4095-a881-5d9f00c0f22f" />
+
+<img width="2619" height="873" alt="bannergithubgradient" src="https://github.com/user-attachments/assets/51f4f7b8-cc3f-4e1f-97e3-714e923414a1" />
 
 # Hola, soy Irene. 👋 
 Tras haber navegado por otros mundos he terminado descubriendo que me encanta el código.

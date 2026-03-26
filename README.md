@@ -1,5 +1,5 @@
 
-<img width="2560" height="840" alt="banner-github-irene" src="https://github.com/user-attachments/assets/5c4ea287-9799-4757-97ad-c70b9d640b37" />
+<img width="2560" height="840" alt="banner-github-irene" src="https://github.com/user-attachments/assets/d4dd3fef-b0e6-4f85-b88d-75e8e7a7ae50" />
 
 
 # Hola, soy Irene. 👋

@@ -1,6 +1,8 @@
-<img width="2619" height="873" alt="bannergithubgradient" src="https://github.com/user-attachments/assets/51f4f7b8-cc3f-4e1f-97e3-714e923414a1" />
 
-# Hola, soy Irene. 👋
+<img width="2560" height="840" alt="irene-github-banner" src="https://github.com/user-attachments/assets/86219884-fb0e-4e6f-ab2b-5aa72abd08da" />
+
+# Hola, soy Irene. 👋[Uploading banner-github-irene.html…]()
+
 Tras haber navegado por otros mundos he terminado descubriendo que me encanta el código.
 
 ## 🚀 Desarrolladora Web | Python & Django

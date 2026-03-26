@@ -1,7 +1,7 @@
 
-<img width="2560" height="840" alt="irene-github-banner" src="https://github.com/user-attachments/assets/86219884-fb0e-4e6f-ab2b-5aa72abd08da" />
+<img width="2560" height="840" alt="banner-github-irene" src="https://github.com/user-attachments/assets/fadbf583-389e-4d49-83ad-7ef7991542c2" />
 
-# Hola, soy Irene. 👋[Uploading banner-github-irene.html…]()
+# Hola, soy Irene. 👋
 
 Tras haber navegado por otros mundos he terminado descubriendo que me encanta el código.
 

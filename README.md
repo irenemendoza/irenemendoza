@@ -13,6 +13,8 @@ Apasionada por crear aplicaciones web robustas y escalables.
 Actualmente enfocada en backend con Django y empezando a contribuir a
 proyectos open source.
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-irenemendoza.dev-CAFF00?style=for-the-badge&labelColor=111111)](https://irenemendoza.dev)
+
 ### 🛠️ Stack Técnico
 
 - **Backend:** Python, Django
@@ -38,5 +40,6 @@ proyectos open source.
 
 ### 📫 Contacto
 
+- 🌐 Portfolio: [irenemendoza.dev](https://irenemendoza.dev)
 - LinkedIn: Irene Mendoza González
 - Email: mendozagonzalez.irene@gmail.com
